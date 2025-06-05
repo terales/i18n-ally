@@ -1,5 +1,5 @@
-*.json       @terales @kibertoad @anilkk
-*.js         @terales @kibertoad @anilkk
-*.ts         @terales @kibertoad @anilkk
-*.md         @terales @kibertoad @anilkk
-package.json @terales @kibertoad @anilkk
+*.json       @kibertoad
+*.js         @kibertoad
+*.ts         @kibertoad
+*.md         @kibertoad
+package.json @kibertoad
